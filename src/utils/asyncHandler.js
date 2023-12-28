@@ -6,3 +6,6 @@ const asyncHandler = (requestHandler) => {
 
 
 export { asyncHandler }
+
+
+// http://localhost:3000/api/v1/users/register
